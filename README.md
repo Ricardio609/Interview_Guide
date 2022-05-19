@@ -8,7 +8,14 @@
 2. [后端程序员必备的 Linux 基础知识总结](./操作系统/linux-intro.md)
 3. [Shell 编程入门](./操作系统/shell-intro.md)
 
-## [计算机网络](./计算机网络/README.md)
+## [计算机网络](./计算机网络/)
+
+1. [OSI 和 TCP/IP 网络分层模型详解（基础）](./计算机网络/osi&tcp-ip-model.md)
+1. [HTTP vs HTTPS（应用层）](./计算机网络/http&https.md)
+1. [HTTP 1.0 vs HTTP 1.1（应用层）](./计算机网络/http1.0&http1.1.md)
+1. [计算机网络常见知识点&面试题（补充）](./计算机网络/other-network-questions.md)
+2. [谢希仁老师的《计算机网络》内容总结](./计算机网络/谢希仁老师的《计算机网络》内容总结.md)
+
 
 ## [数据库](./数据库/)
 
