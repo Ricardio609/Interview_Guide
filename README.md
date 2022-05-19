@@ -1,6 +1,6 @@
 # Interview_guide
 
-## [C++](./c++/README.md)
+## [C++](./C++/README.md)
 
 ## [操作系统](./操作系统/README.md)
 
