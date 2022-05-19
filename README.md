@@ -2,6 +2,36 @@
 
 ## [C++](./C++/README.md)
 
+## [数据结构](./数据结构/)
+
+**图解数据结构：**
+
+1. [线性数据结构 :数组、链表、栈、队列](./数据结构/linear-data-structure.md)
+2. [图](./数据结构/graph.md)
+3. [堆](./数据结构/heap.md)
+4. [树](./数据结构/tree.md) ：重点关注[红黑树](./数据结构/red-black-tree.md)、B-，B+，B*树、LSM树
+
+其他常用数据结构 ：
+
+1. [布隆过滤器](./数据结构/bloom-filter.md)
+
+
+## [算法](./算法)
+
+算法这部分内容非常重要，如果你不知道如何学习算法的话，可以看下我写的：
+
+* [算法学习书籍+资源推荐](https://www.zhihu.com/question/323359308/answer/1545320858) 。
+* [如何刷Leetcode?](https://www.zhihu.com/question/31092580/answer/1534887374) 
+
+**常见算法问题总结** ：
+
+* [几道常见的字符串算法题总结 ](./算法/string-algorithm-problems.md)
+* [几道常见的链表算法题总结 ](./算法/linkedlist-algorithm-problems.md)
+* [剑指 offer 部分编程题](./算法/the-sword-refers-to-offer.md)
+
+另外，[GeeksforGeeks]( https://www.geeksforgeeks.org/fundamentals-of-algorithms/) 这个网站总结了常见的算法 ，比较全面系统。
+
+
 ## [操作系统](./操作系统)
 
 1. [操作系统常见问题总结！](./操作系统/operating-system-basic-questions-01.md)
